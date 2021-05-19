@@ -1,6 +1,8 @@
-# TodoMVC-API
+# TodoMVC-API and Data manipulation from CSV
 
-## Features: 
+This is an assignment provided by LeanKloud.
+
+## TodoMVC-API: 
 <ul>
   <li>Authorization using Token</li>
   <li>GET, POST, PUT, DELETE methods</li>
