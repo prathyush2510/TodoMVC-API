@@ -1,6 +1,5 @@
 # TodoMVC-API and Data manipulation from CSV
 
-This is an assignment provided by LeanKloud.
 
 ## TodoMVC-API: 
 <ul>
